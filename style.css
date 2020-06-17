@@ -96,6 +96,9 @@ img {
     }
 }
 
+
+/* visualizzazione tablet */
+
 @media screen and (min-width: 421px) and (max-width: 768px) {
 
     .row {
