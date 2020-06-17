@@ -103,4 +103,12 @@ img {
         margin-top: 10px;
     }
 
+    img {
+      max-width: 100%;
+    }
+
+    #steps img {
+        height: 100%;
+    }
+
 }
